@@ -29,7 +29,7 @@ O código contém mensagens descritivas e claras para facilitar o uso por pessoa
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/calculadora-matrizes.git
+git clone https://github.com/TainaDr/calculadora-matrizes.git
 cd calculadora-matrizes
 ```
 
